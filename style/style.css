@@ -1,0 +1,51 @@
+html {
+  background-color: #272727;
+}
+body{
+  background-color: #272727 !important;
+}
+
+input{
+  background-color: #454545 !important;
+  color: white !important;
+}
+
+.btn {
+  background-color: gray !important;
+}
+.btn:hover{
+  background-color: #ddd !important;
+}
+
+.chart-container svg{
+  height: 150px;
+  width: 100%;
+}
+
+.table {
+  background-color: #272727;
+}
+
+tr:hover {
+  background-color: #454545 !important;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center;
+}
+
+.input-group{
+  margin: 40px 0px;
+  background-color: #545454 !important;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+.main{
+  background-color: #272727;
+  color: gray;
+}
