@@ -8,6 +8,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="main">
+        <h1 className="title">Vatcher Casts</h1>
         <SearchBar />
         <WeatherList />
       </div>

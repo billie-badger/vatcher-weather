@@ -10,6 +10,13 @@ input{
   color: white !important;
 }
 
+.title{
+  text-align: center;
+  font-size: 5em;
+  font-weight: bold;
+  margin: 30px;
+}
+
 .btn {
   background-color: gray !important;
 }
